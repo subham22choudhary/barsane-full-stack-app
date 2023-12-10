@@ -1,0 +1,17 @@
+
+    .img1 {
+        max-width: 10rem;
+    }
+
+    a.nav-link.active,
+    .nav-link:focus,
+    .nav-link:hover,
+    a.nav-link {
+        color: #130022;
+        font-weight: 600;
+    }
+
+
+    .cls-1 {
+        background-color: #ffffff;
+    }

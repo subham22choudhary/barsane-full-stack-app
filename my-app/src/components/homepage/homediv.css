@@ -1,0 +1,26 @@
+.section-1{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.card-video{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: max-content;
+    padding: 2rem;
+    max-width: 20rem;
+    min-width: 10rem;
+}
+
+.text-1 {
+    color: #590901;
+    font-size: 1.5rem;
+}
+
+.card-puja-text-1 a {
+    color: black;
+    text-decoration: none;
+}
+
